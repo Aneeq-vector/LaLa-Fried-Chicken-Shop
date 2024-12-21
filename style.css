@@ -779,3 +779,27 @@ textarea.form-control{
     color: var(--clr-primary);
     font-weight: bold;
 }
+
+/*--------------Scroll Bar-------------*/
+body::-webkit-scrollbar{
+    width: 12px;
+}
+
+body::-webkit-scrollbar-thumb{
+    background: linear-gradient(to bottom, var(--clr-primary), var(--clr-secondary));
+    border-radius: 50px;
+}
+
+body::-webkit-scrollbar-track{
+    background: var(--clr-grey-3);
+}
+
+body::-webkit-scrollbar-thumb:hover{
+    background: linear-gradient(to bottom, var(--clr-secondary), var(--clr-primary));
+    border-radius: 50px;
+}
+
+body::-webkit-scrollbar-thumb:active{
+    background: linear-gradient(to bottom, var(--clr-primary), var(--clr-secondary));
+    border-radius: 50px;
+}

@@ -254,7 +254,7 @@ body{
 .header{
     min-height: 100%;
     min-width: 100%;
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("/images/background.jpg") center/cover no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../images/background.jpg") center/cover no-repeat fixed;
 }
 
 .banner{

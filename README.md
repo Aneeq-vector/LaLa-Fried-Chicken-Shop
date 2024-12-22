@@ -48,8 +48,8 @@ Contributions are welcome! If you'd like to enhance the website, feel free to fo
 ## 📨 Contact
 For any questions or feedback, please reach out:
 
-Email: ahmedaneeq.official@gmail.com
-Phone: +94 71 090 0155
+- Email: ahmedaneeq.official@gmail.com
+- Phone: +94 71 090 0155
 
 ---
 
